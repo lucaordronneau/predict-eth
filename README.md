@@ -17,4 +17,4 @@ Hyperparameter search was conducted using **Weights & Biases** Sweeps, which emp
 See slides : round3-slides.pdf for more informations
 
 ## Ocean Market
-CSV File Price Predictions Round 3 - https://market.oceanprotocol.com/asset/did:op:234b5ef470a9b4fa9d3d4cf88c6f23b0e566c079953050ebe9fee05dbd7dc083
+CSV File Price Prediction Round 3 - https://market.oceanprotocol.com/asset/did:op:234b5ef470a9b4fa9d3d4cf88c6f23b0e566c079953050ebe9fee05dbd7dc083
