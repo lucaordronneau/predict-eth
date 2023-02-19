@@ -20,6 +20,7 @@ Hyperparameter search was conducted using **Weights & Biases** Sweeps, which emp
 
 ```
 pip install -r requirements.txt
+
 python src/predict_eth_flow.py
 ```
 
