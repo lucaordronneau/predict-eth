@@ -14,7 +14,14 @@ To handle the complexity of the dataset and its non-linear relationships, **Grad
 
 Hyperparameter search was conducted using **Weights & Biases** Sweeps, which employed **Bayesian inference** to efficiently find the optimal parameters.
 
-See slides : round3-slides.pdf for more informations
+*See slides : round3-slides.pdf for more informations*
+
+## Launch script
+
+```
+pip install -r requirements.txt
+python src/predict_eth_flow.py
+```
 
 ## Ocean Market
 CSV File Price Prediction Round 3 - https://market.oceanprotocol.com/asset/did:op:234b5ef470a9b4fa9d3d4cf88c6f23b0e566c079953050ebe9fee05dbd7dc083
